@@ -10,6 +10,7 @@ echo "| | / / _ \  | __/ _ \/ __| __|"
 echo "| |/ / (_) | | ||  __/\__ \ |_ "
 echo "|_/_/ \___/   \__\___||___/\__|"
 
+echo " "
 echo "CPU model : $cname"
 echo "CPU cores : $cores"
 echo "CPU frequency : $freq MHz"
