@@ -1,6 +1,6 @@
 # Linux I/O test
 
-This script is tested with Ubuntu, Debian and CentOS Linux/
+This script is tested with Ubuntu, Debian and CentOS Linux.
 
 This script will test your disk I/O in no more then a minute, even if you do not have Linux experience.
 
